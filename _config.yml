@@ -1,0 +1,10 @@
+# Site settings
+title: Rubynista
+description: a woman + her computer = <3
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://theresa.rubynista.com" # the base hostname & protocol for your site
+twitter_username: theresaluu
+github_username: theresaluu
+exclude: [vendor]
+# Build settings
+markdown: redcarpet
