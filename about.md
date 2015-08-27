@@ -17,7 +17,12 @@ permalink: /about/
         <p>The journey has been challenging and exciting.  For the first time, one of my hobbies is also my work.  This is where I'll document my experiences, share my learn wishlist, and maybe stick in a few off-topic posts with you.  </p>
       </div>
     </div>
-  </div>
+    <div class="row">
+      <div class="large-12 columns">
+        <p> You can find my old posts at <a href="http://rubynista.tumblr.com">http://rubynista.tumblr.com</a> </p>
+      </div>
+    </div>
+ </div>
 </div>
 
 <!--This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)

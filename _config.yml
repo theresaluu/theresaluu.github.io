@@ -8,3 +8,7 @@ github_username: theresaluu
 exclude: [vendor]
 # Build settings
 markdown: redcarpet
+excerpt_separator: <!--more-->
+
+kramdown:
+  input: GFM
