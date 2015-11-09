@@ -2,6 +2,7 @@
 layout: post
 title: "Let It Be Ugly"
 categories: roadblocks jekyll redcarpet
+excerpt: If you love something, then let it go.  And if you **fucking hate something** but it's code you are working on, you also have to let it go ...
 ---
 
 If you love something, then let it go.  And if you **fucking hate something** but it's code you are working on, you also have to let it go ... live online while you keep iterating on it 'til it stops looking like a bastard.  Why not make my first post be a declaration of roadblocks?
@@ -27,7 +28,7 @@ Original goal: Personalize each post's excerpts so that it isn't the default fir
 
 The documentation said to "include excerpt-separator: <!--more-->" in the Front Matter of your post and the excerpt would be cut off anywhere in the content of your post at the mention of <!--more-->.  
 
-The separator, itself, would not render because it is the comment-out syntax of html.  Well, I am not using any modifiers on these separators, and they are showing up in the body of the content as well as not functioning ot cut off the excerpt.
+The separator, itself, would not render because it is the comment-out syntax of html.  Well, I am not using any modifiers on these separators, and they are showing up in the body of the content as well as not functioning to cut off the excerpt.
 
 I've tried two different workarounds but they do not seem to be working with my set up.  Maybe I have a newer version of redcarpet.  Maybe there is another markdown language that would be better.  
 

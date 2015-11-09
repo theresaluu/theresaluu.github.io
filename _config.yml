@@ -7,8 +7,7 @@ twitter_username: theresaluu
 github_username: theresaluu
 exclude: [vendor]
 # Build settings
-markdown: redcarpet
-excerpt_separator: <!--more-->
+markdown: kramdown
 
 kramdown:
   input: GFM
