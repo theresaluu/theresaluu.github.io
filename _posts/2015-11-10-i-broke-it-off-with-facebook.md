@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I broke it off with Facebook"
-categories: priorities, privacy
+categories: life tech
 excerpt: The bastard tried to keep my mixedtapes but I still won.
 ---
 
