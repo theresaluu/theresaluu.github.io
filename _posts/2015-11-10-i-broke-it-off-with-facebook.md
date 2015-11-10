@@ -26,5 +26,11 @@ Secondly, I decided I was just going ot explicitly state my excerpts for my post
 What will be a win for me between now and my next post?  Currently, this post doesn't show up on my index but it shows up in my top nav.  Not good.  But SESO (Ship Early Ship Often).  Wish me luck!
 
 xoxo, 
--t 
+-t
+
+****update****
+
+Holla- ya, girl found out what was wrong before I even deployed.  Fist-bump, booty-bump.  I made this post while already using VIM, and not paying attention to where I was in the tree structure.  Opps.  The fix was to move the post within the jekyll /_posts folder.  All good.  
+
+New win for me between now and my next post will be fixing the alignment/spacing of the blog index page and also, dynamically rendering my top-nav because I don't need to see the About link when I'm already on that page.  
 
