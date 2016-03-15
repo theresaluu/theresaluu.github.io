@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tackling Code Challenges"
-categories: interviewing, datatypes, tips
+categories: interviewing datatypes tips
 excerpt: Lessons learned doing consecutive code challenges.
 ---
 
