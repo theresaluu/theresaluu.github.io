@@ -29,8 +29,10 @@ xoxo,
 -t
 
 ****update****
-
 Holla- ya, girl found out what was wrong before I even deployed.  Fist-bump, booty-bump.  I made this post while already using VIM, and not paying attention to where I was in the tree structure.  Opps.  The fix was to move the post within the jekyll /_posts folder.  All good.  
 
 New win for me between now and my next post will be fixing the alignment/spacing of the blog index page and also, dynamically rendering my top-nav because I don't need to see the About link when I'm already on that page.  
 
+****update (March 10, 2015)****
+I am returning to Facebook.  I don't think I'm going to be his friend without restrictions; I think I am going to friend him with limited access to my profile.  ;P see what I did there?  So meta...  
+I still have concerns about letting FB farm the details of my life, but in eliminating it from my social repertoire has prevented me from accessing several groups that I interact with in real life.  Since my intention for 2016 is to be more involved in developer communities, I am going to intentionally use FB for that reason (as well as the other groups I'm involved with).
