@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "At a Mentor\'s Crossroad"
+title: "A Mentor\'s Crossroad"
 categories: mentorship
 excerpt: The mediocre teacher tells. The good teacher explains. The superior teacher demonstrates.  The great teacher inspires. -William Arthur Ward
 published: true
