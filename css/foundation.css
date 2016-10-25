@@ -2957,7 +2957,7 @@ table.hover tr:nth-of-type(even):hover {
       background-color: #8a8a8a; }
 
 .thumbnail {
-  border: solid 4px #fefefe;
+  border: none;
   box-shadow: 0 0 0 1px rgba(10, 10, 10, 0.2);
   display: inline-block;
   line-height: 0;

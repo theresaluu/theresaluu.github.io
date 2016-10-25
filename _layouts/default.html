@@ -16,5 +16,13 @@
     {% include footer.html %}
 
   </body>
+  <script>
+    $(".projects").hide();
+    $(".job-tile").click(function() {
+      var tileID = this.id;
+      var findMe = "#" + tileID + "-projects";
+      $(findMe).slideToggle();
+    });
+  </script>
 
 </html>
