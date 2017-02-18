@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Let It Be Ugly"
-categories: tech 
+categories: tech
 excerpt: If you love something, then let it go.  And if you **fucking hate something** but it's code you are working on, you also have to let it go ...
 ---
 
