@@ -12,12 +12,12 @@
       </a>
 
       <div class="trigger">
-        {% if page.url contains '/resume'%}
-          <a class="page-link" href="/index.html"> Blog </a>
+        {% if page.url contains '/about'%}
+          <a class="page-link" href="/blog"> Blog </a>
+        {% elsif page.url contains '/blog'%}
           <a class="page-link" href="/about"> About </a>
-        {% elsif page.url contains '/about'%}
-          <a class="page-link" href="/index.html"> Blog </a>
         {% else%}
+          <a class="page-link" href="/blog"> Blog </a>
           <a class="page-link" href="/about"> About </a>
         {% endif %}
       </div>

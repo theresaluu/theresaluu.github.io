@@ -3,6 +3,7 @@ layout: post
 title: "I broke it off with Facebook"
 categories: life tech
 excerpt: The bastard tried to keep my mixedtapes but I still won.
+published: false
 ---
 
 This week has been the lightest week of my life- after over 10 years, I quit Facebook.  That's right.  The thing we had started in college: very innocent at first- he helped me form study groups.  As we got to know each other better, he changed into this over-reaching beast.  He became my obligation instead of my inspiration.
